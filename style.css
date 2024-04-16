@@ -1,0 +1,80 @@
+
+
+.body{
+    margin: 5px;
+
+}
+
+.parentdiv{
+    border: 8px solid black;
+
+}
+
+.firstdiv{
+    background-color: blue;
+    height: 100px;
+
+}
+.secionddiv{
+    display: flex;
+    flex-direction: row;
+}
+.orange{
+    background-color: orange;
+    height: 80px;
+    width: 400px;
+}
+
+.brown{
+    background-color: brown;
+    height: 80px;
+    width: 400px;
+
+}
+.pink{
+    background-color: pink;
+    height: 80px;
+    width: 400px;
+}
+.violet{
+    background-color: violet;
+    height: 80px;
+    width: 400px;
+}
+.black{
+    height: 400px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.thirdrow{
+display: flex;
+flex-direction: row;
+
+}
+.golden{
+    height: 100px;
+    width: 100px;
+    background-color: goldenrod;
+border: 2px solid white;
+}
+.purple{
+    background-color: purple;
+    height: 400px;
+    width: 100px;
+
+}
+.grey{
+    background-color: grey;
+    height: 400px;
+    width: 100px;
+}
+.green{
+    background-color: green;
+    height: 100px;
+    width: 1504px;
+
+}
